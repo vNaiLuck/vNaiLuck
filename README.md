@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="G-MZbMKasAAN588.jpeg" width="100%">
+  <img src="1000585248.jpg" alt="Aventurine Roll or Die" width="800">
 </p>
 
-
-𝑀𝑒 𝑎𝑛𝑑 𝑚𝑦 𝑏𝑜𝑦𝑓𝑟𝑖𝑒𝑛𝑑 <3 ♡
+ᴍᴇ ᴀɴᴅ ...
