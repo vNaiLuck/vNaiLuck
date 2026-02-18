@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="G-MZbMKasAAN588.jpeg" width="100%" style="max-width: 600px;">
+  <img src="381fa04fb3a01b712f01caf238903ebe%20(1).jpg" width="100%" style="max-width: 600px;">
 </p>
 
 <h1 align="center">ɪ ᴍɪss ʏᴏᴜ ʙʟᴏᴏᴅʏ</h1>
