@@ -1,9 +1,9 @@
-<ᴘ ᴀʟɪɢɴ="ᴄᴇɴᴛᴇʀ">
-  <ɪᴍɢ sʀᴄ="ɢ-ᴍᴢʙᴍᴋᴀsᴀᴀɴ588.ᴊᴘᴇɢ" ᴀʟᴛ="ᴀᴠᴇɴᴛᴜʀɪɴᴇ" ᴡɪᴅᴛʜ="100%" sᴛʏʟᴇ="ᴍᴀx-ᴡɪᴅᴛʜ: 600ᴘx;">
-</ᴘ>
+<p align="center">
+  <img src="G-MZbMKasAAN588.jpeg" alt="Aventurine" width="100%" style="max-width: 600px;">
+</p>
 
-<ʜ1 ᴀʟɪɢɴ="ᴄᴇɴᴛᴇʀ">i miss you bloody</ʜ1>
+<h1 align="center">ɪ ᴍɪss ʏᴏᴜ ʙʟᴏᴏᴅʏ</h1>
 
-<ᴘ ᴀʟɪɢɴ="ᴄᴇɴᴛᴇʀ">
-  <ɪ>"me and..."</ɪ>
-</ᴘ>
+<p align="center">
+  <i>"ᴍᴇ ᴀɴᴅ..."</i>
+</p>
